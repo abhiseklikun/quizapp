@@ -1,0 +1,11 @@
+This is a Next.js project bootstrapped with create-next-app
+some steps should be followed:
+1. download and open in vs code or directly open in vs code.
+2. try to run those documents using "npm run dev" if it was work then ok otherwise install the nextjs
+using "npm install next".
+3. once all the things are done try to run it again
+4. once opening the project put your name and email which can be later see in formspree websit"https://formspree.io/forms/xoqgdnlk/submissions".
+5.Open http://localhost:3000 with your browser to see the result.
+some additional information:
+You can start editing the page by modifying app/page.tsx. The page auto-updates as you edit the file.
+This project uses next/font to automatically optimize and load Inter, a custom Google Font.
